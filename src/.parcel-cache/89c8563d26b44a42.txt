@@ -1,0 +1,6 @@
+5
+34D:\jirengu\Pikaqu-1\src\index.html133074488263220878 0
+31D:\jirengu\Pikaqu-1\src\main.js133074487305807121 0
+33D:\jirengu\Pikaqu-1\src\style.css133071765100145701 0
+33D:\jirengu\Pikaqu-1\src\test.html133074667547374736 0
+31D:\jirengu\Pikaqu-1\src\test.js133074682023767158 0
